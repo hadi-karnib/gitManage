@@ -1,6 +1,8 @@
 [submodule "repoA"]
-	path = repoA
+    path = repoA
 	url = https://github.com/karniib/RepoA.git
+	branch = main
 [submodule "RepoB"]
 	path = RepoB
 	url = https://github.com/karniib/RepoB.git
+	branch = main
